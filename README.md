@@ -25,6 +25,7 @@ G-SWEP offers a comprehensive 10-week software engineering mentorship opportunit
 ### Study Schedule
 
 #### Strings, Arrays, Hash Tables (2 or 3 weeks)
+[LeetCode Questions - G-SWEP(section1)](https://leetcode.com/list/rdzm2pfs)
 - [X] **Strings**: 10-20 easy problems (2-3 days)
 - [X] **Arrays**: 10-20 easy problems (2-3 days)
 - [X] **Hash Tables**: 10-20 easy problems (3-4 days)
@@ -32,6 +33,7 @@ G-SWEP offers a comprehensive 10-week software engineering mentorship opportunit
 - [X] **Review**: Revisit and refine understanding (remaining days of the week)
 
 #### Trees (2 weeks)
+[LeetCode Questions - G-SWEP(section2)](https://leetcode.com/list/ru0s7sh3)
 - [X] **Trees**: All 42 easy LeetCode questions (4-5 days)
 - [ ] **Review**: Revisit and refine understanding (remaining days of the week)
 
