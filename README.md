@@ -4,7 +4,7 @@
 
 G-SWEP offers a comprehensive 10-week software engineering mentorship opportunity. Dive into the world of tech under the guidance of seasoned Google engineers. 
 
-![G-SWEP Image](https://github.com/sheisol310/G-SWEP/assets/71618073/13b1682a-4a89-4fbf-b3a2-df0ebfbf2269)
+<img src="https://github.com/sheisol310/G-SWEP/assets/71618073/13b1682a-4a89-4fbf-b3a2-df0ebfbf2269" width="500" alt="G-SWEP Image">
 
 ## LeetCode Study Plan
 
