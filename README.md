@@ -77,6 +77,7 @@ G-SWEP offers a comprehensive 10-week software engineering mentorship opportunit
   - [ ] Learn how to create a tree node in Python.
 - [ ] **N-ary Trees**:
   - [ ] Understand n-ary trees: Trees with any number of children without a defined relationship.
+  - [ ] [GPT explanation](https://chat.openai.com/share/e1e8f94a-c67e-4902-9ff1-08e6ed823245)
 
 ### Graphs
 - [ ] BFS
