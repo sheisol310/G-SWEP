@@ -72,6 +72,7 @@ G-SWEP offers a comprehensive 10-week software engineering mentorship opportunit
   - [X] Post-Order Traversal
   - [ ] BFS
   - [ ] DFS
+  - [ ] Shortest Path:[GPT explanation](https://chat.openai.com/share/e7ed17f6-1852-4475-9605-2ff91759554c)
 - [ ] **Binary Trees**:
   - [ ] Grasp the characteristics and relationships between left and right children.
   - [ ] Learn how to create a tree node in Python.
