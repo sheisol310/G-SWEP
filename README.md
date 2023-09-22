@@ -36,7 +36,24 @@ G-SWEP offers a comprehensive 10-week software engineering mentorship opportunit
 [LeetCode Questions - G-SWEP(section2)](https://leetcode.com/list/ru0s7sh3)
 - [X] **Trees**: All 42 easy LeetCode questions (4-5 days)
 - [ ] **Review**: Revisit and refine understanding (remaining days of the week)
-
+  #### DFS Review:
+  - [ ] 112. [Path Sum](https://leetcode.com/problems/path-sum/)
+  - [ ] 113. Path Sum II (M)
+  - [ ] 437. Path Sum III (M)
+  - [ ] 543. Diameter of Binary Tree (E)
+  - [ ] 257. Binary Tree Paths (E)
+  - [ ] 124. Binary Tree Maximum Path Sum (M)
+  #### BFS Review:
+  - [ ] 102. Binary Tree Level Order Traversal (M)
+  - [ ] 107. Binary Tree Level Order Traversal II (M)
+  - [ ] 103. Binary Tree Zigzag Level Order Traversal (M)
+  - [ ] 637. Average of Levels in Binary Tree (E)
+  - [ ] 111. Minimum Depth of Binary Tree (E)
+  - [ ] 1161. Maximum Level Sum of a Binary Tree (M)
+  - [ ] 116. Populating Next Right Pointers in Each Node (M)
+  - [ ] 117. Populating Next Right Pointers in Each Node II (M)
+  - [ ] 199. Binary Tree Right Side View (M)
+  
 #### Tree and Graphs (1 week)
 - [ ] **Daily**: 1 medium tree question and 4 easy graph questions
 - [ ] **Graphs**: Complete all easy problems with Google filter (4-5 days)
